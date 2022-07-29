@@ -28,7 +28,8 @@ src/test/resouces > 1 Package & 1 File.
 Feature file - Test case scenario from end user point of view. 
 Properties file - contains url and name. 
 
-Data Used
+
+## Test Data
 URL1=https://www.imdb.com/
 
 URL2=https://www.wikipedia.org/
